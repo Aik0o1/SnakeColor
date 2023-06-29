@@ -1,5 +1,5 @@
 # SnakeColor
-Jogo desenvolvido afim de consolidar o aprendizado de filas.
+Jogo desenvolvido a fim de consolidar o aprendizado de filas.
   
 <p align="center">
   <img width="470" src="to_readme/img.png">
